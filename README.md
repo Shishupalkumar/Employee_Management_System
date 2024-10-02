@@ -63,5 +63,6 @@ Before you begin, ensure you have the following installed:
 ## Screenshots ##
 ### Here is a screenshot of my project: ###
 
-![Login Icon](https://raw.githubusercontent.com/Shishupal kumar/Employee/main/src/icons/login.png)
+## Dashboard Icon
+![Dashboard Icon](src/icons/dashboard.png)
 
