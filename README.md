@@ -29,4 +29,17 @@ Before you begin, ensure you have the following installed:
 2. Open **MySQL Workbench** or use the MySQL command-line tool.
 3. Create a database for the Employee Management System
    - CREATE DATABASE employee_db;
+4. Switch to the new database:
+   - USE employee_db;
+5. Create a table for employees:
+   - CREATE TABLE employees (
+      id INT PRIMARY KEY AUTO_INCREMENT,
+      name VARCHAR(100),
+      position VARCHAR(100),
+      salary DECIMAL(10, 2),
+      contact_number VARCHAR(15),
+      email VARCHAR(100),
+      department VARCHAR(50)
+     );
+## Installation
 
