@@ -61,13 +61,32 @@ Before you begin, ensure you have the following installed:
 4. The main interface will allow you to add, update, delete, and view employee records.
 
 ## Screenshots ##
-### Here is a screenshot of my project: ###
 
-## Login Icon
+### Login Icon
 
 <img width="440" alt="login" src="https://github.com/user-attachments/assets/40eb00a8-5b2a-4c7c-8c3c-a8b5b18033c9">
 
 
-## Dashboard Icon
+### Dashboard Icon
 
 <img width="830" alt="dashboard" src="https://github.com/user-attachments/assets/a2503aa9-5bb0-4416-940c-5b7e1960b0eb">
+
+ ## Known Issues :
+ 
+ 1. Some GUI components may not be responsive on smaller screens.
+ 2. Database connection errors may occur if the MySQL server is not properly configured.
+
+## Future Enhancements
+- Add a **Login and User Authentication system** for better security.
+- Implement **data validation** for user input (e.g., valid email format, numeric salary).
+- Generate **employee reports** and export them to PDF or Excel.
+- Enhance the **search functionality** to include filters by department or position.
+
+## License
+This project is licensed under the MIT License.
+
+## Contact
+If you have any questions or issues regarding the project, please contact:
+
+**Name:** Shishupal Kumar
+**Email:** shishupalsingh7627@gmail.com
