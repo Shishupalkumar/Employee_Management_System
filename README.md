@@ -33,13 +33,13 @@ Before you begin, ensure you have the following installed:
    - USE employee_db;
 5. **Create a table for employees:**
    - CREATE TABLE employees (
-    id INT PRIMARY KEY AUTO_INCREMENT,
-     name VARCHAR(100),
-     position VARCHAR(100),
-     salary DECIMAL(10, 2),
-     contact_number VARCHAR(15),
-     email VARCHAR(100),
-     department VARCHAR(50)
+    id INT PRIMARY KEY AUTO_INCREMENT,  
+     name VARCHAR(100),  
+     position VARCHAR(100),  
+     salary DECIMAL(10, 2),  
+     contact_number VARCHAR(15),  
+     email VARCHAR(100),  
+     department VARCHAR(50)  
 );
 
 ## Installation
