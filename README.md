@@ -27,11 +27,11 @@ Before you begin, ensure you have the following installed:
 ## Database Setup :
 1. Install and configure **MySQL**.
 2. Open **MySQL Workbench** or use the MySQL command-line tool.
-3. Create a database for the Employee Management System
+3. **Create a database for the Employee Management System.**
    - CREATE DATABASE employee_db;
-4. Switch to the new database:
+4. **Switch to the new database:**
    - USE employee_db;
-5. Create a table for employees:
+5. **Create a table for employees:**
    - CREATE TABLE employees (
     id INT PRIMARY KEY AUTO_INCREMENT,
      name VARCHAR(100),
