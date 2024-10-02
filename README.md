@@ -26,3 +26,5 @@ Before you begin, ensure you have the following installed:
 
 ## Database Setup :
 1. Install and configure **MySQL**.
+2. Open **MySQL Workbench** or use the MySQL command-line tool.
+3. Create a database for the Employee Management System
