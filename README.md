@@ -24,3 +24,5 @@ Before you begin, ensure you have the following installed:
 - **JDBC MySQL Connector** for database connectivity
 - A Java IDE such as **NetBeans** or **Eclipse.**
 
+## Database Setup :
+1. Install and configure **MySQL**.
