@@ -45,7 +45,7 @@ Before you begin, ensure you have the following installed:
 ## Installation
 
 1. Clone the repository:
-   - git clone https://github.com/Shishupalkumar/employee-management-system
+   - git clone https://github.com/Shishupalkumar/Employee-Management-System
 2. Import the project into your Java IDE (NetBeans, Eclipse).
 3. Add the **JDBC MySQL Connector JAR** to your project libraries.
 4. Update the **DatabaseConnection.java** file with your database credentials
