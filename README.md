@@ -63,4 +63,4 @@ Before you begin, ensure you have the following installed:
 ## Screenshots ##
 ### Here is a screenshot of my project: ###
 
-![Login Icon](src/icons/login.png)
+![Employee ](src/icons/login.png)
