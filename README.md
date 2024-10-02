@@ -88,5 +88,5 @@ This project is licensed under the MIT License.
 ## Contact
 If you have any questions or issues regarding the project, please contact:
 
-**Name:** Shishupal Kumar
+**Name:** Shishupal Kumar  
 **Email:** shishupalsingh7627@gmail.com
