@@ -59,3 +59,8 @@ Before you begin, ensure you have the following installed:
 2. Open the project in your IDE.
 3. Run the **Main.java** class to start the application.
 4. The main interface will allow you to add, update, delete, and view employee records.
+
+## Screenshots ##
+### Here is a screenshot of my project: ###
+
+![Project Screenshot](icons/login.png)
