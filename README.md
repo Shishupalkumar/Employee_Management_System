@@ -53,4 +53,9 @@ Before you begin, ensure you have the following installed:
   - String username = "your-username";
   - String password = "your-password";
 
-# How to Run the Application #
+## How to Run the Application ##
+
+1. Ensure that the **MySQL server** is running and the database is correctly set up.
+2. Open the project in your IDE.
+3. Run the **Main.java** class to start the application.
+4. The main interface will allow you to add, update, delete, and view employee records.
