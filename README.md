@@ -63,6 +63,11 @@ Before you begin, ensure you have the following installed:
 ## Screenshots ##
 ### Here is a screenshot of my project: ###
 
-## Dashboard Icon
-![Dashboard Icon](src/icons/dashboard.png)
+## Login Icon
 
+<img width="440" alt="login" src="https://github.com/user-attachments/assets/40eb00a8-5b2a-4c7c-8c3c-a8b5b18033c9">
+
+
+## Dashboard Icon
+
+<img width="830" alt="dashboard" src="https://github.com/user-attachments/assets/a2503aa9-5bb0-4416-940c-5b7e1960b0eb">
