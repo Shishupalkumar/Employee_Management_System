@@ -7,4 +7,6 @@ The Employee Management System is a desktop-based application built using Java A
 <h4 style="font-size: 30px;">View Employees: </h4> View all employee records in a tabular format.
 <h4 style="font-size: 30px;">Delete Employee: </h4> Remove employee records from the database.
 <h4 style="font-size: 30px;">Search Functionality: </h4> Search employees by ID or name.
+<h4 style="font-size: 30px;">Database Connectivity: </h4> All data is stored and managed through a MySQL database.
 
+<h2 style="font-size: 30px;">Technologies Used</h2>
